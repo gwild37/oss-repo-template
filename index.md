@@ -1,5 +1,5 @@
 # Open Source Software - Summer 2019
-## (( Gabriel Wild ))
+## Gabriel Wild
 
 ## Bio
 CS/ITWS Major, Class of 2021
