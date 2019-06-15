@@ -18,7 +18,8 @@ Date: January 22, 2019
 User: Palmer-Stolly  
 Title: "not sure"  
 Date: April 13, 2019  
-### Git Stats 
+#### Git Stats 
 Authors would sometimes change with gitstats, because one can be removed as a contributor.  
-Lines of code would change, because of gitignore likely.  
-![gitstats](https://github.com/gwild37/oss-repo-template/edit/master/labs/lab-03/images/gitstats.png)  
+Lines of code would change, because of gitignore likely. [gitstats](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-03/resources/outputpath/index.html)  
+#### Gource 
+[gource](https://youtu.be/NshDv0wYLmE)
