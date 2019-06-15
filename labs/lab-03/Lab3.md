@@ -106,10 +106,6 @@ Heres the total output:
 
 ![gource](https://github.com/shailpatels/oss-repo-template/blob/master/labs/lab-03/gource.png)
 
-
-# Petitions
-see my branch
-
 ### Phone Controllers
 20477 lines  
 4 contributors  
