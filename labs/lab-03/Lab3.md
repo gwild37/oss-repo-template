@@ -122,4 +122,4 @@ Date: April 13, 2019
 Authors would sometimes change with gitstats, because one can be removed as a contributor.  
 Lines of code would change, because of gitignore likely. [gitstats](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-03/resources/outputpath/index.html)  
 #### Gource 
-[gource](https://youtu.be/NshDv0wYLmE)
+[gource](https://www.youtube.com/watch?v=ORImAijAJdw)
