@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step1/TutorialConfig.h
+
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step1/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+sstream
+-
+TutorialConfig.h
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step1/TutorialConfig.h
+

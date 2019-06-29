@@ -1,5 +1,6 @@
 # lab5.md  
 ### Tutorial Code
+Actual code can be found in "/labs/lab-05".
 #### Step 1
 ![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-05/images/step1.png)
 ![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-05/images/step1out.png)

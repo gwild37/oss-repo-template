@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step5/MathFunctions/MathFunctions.h
+
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step5/MathFunctions/mysqrt.cxx
+MathFunctions.h
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step5/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/home/gdude/Dropbox/OSS/github/cmake/Tests/Tutorial/Step5/MathFunctions/TutorialConfig.h
+iostream
+-
+cmath
+-
+
+TutorialConfig.h
+
