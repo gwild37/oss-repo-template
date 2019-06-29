@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libshared_lib.so -o libshared_lib.so CMakeFiles/shared_lib.dir/source/block.c.o 

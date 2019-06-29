@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/dynamic_block.dir/program.c.o  -o dynamic_block -Wl,-rpath,/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example libshared_lib.so 

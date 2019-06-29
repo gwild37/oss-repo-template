@@ -1,0 +1,6 @@
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/CMakeFiles/rebuild_cache.dir
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/CMakeFiles/static_block.dir
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/CMakeFiles/shared_lib.dir
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/CMakeFiles/dynamic_block.dir
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/CMakeFiles/static_lib.dir
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/CMakeFiles/edit_cache.dir

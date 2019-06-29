@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/headers/block.h
+
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/program.c
+headers/block.h
+/home/gdude/Dropbox/OSS/github/oss-repo-template/labs/lab-05/Lab-Example/headers/block.h
+
