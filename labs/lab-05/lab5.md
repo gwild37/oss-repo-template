@@ -1,7 +1,7 @@
 # lab5.md  
 ### Tutorial Code
 #### Step 1
-![](https://github.com/gwild37/oss-repo-template/labs/lab-05/images/step1.png)
+![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-05/images/step1.png)
 ![](/images/step1out.png)
 #### Step 2
 ![](/images/step2.png)
