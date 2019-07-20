@@ -9,3 +9,7 @@
 ![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-06/images/dockerimages.png)
 ### Example03
 ![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-06/images/hello.png)
+### Example04
+![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-06/images/docker-compose.png)
+![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-06/images/dockerfile04.png)
+![](https://github.com/gwild37/oss-repo-template/blob/master/labs/lab-06/images/sail.png)
