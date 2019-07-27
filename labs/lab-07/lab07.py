@@ -30,6 +30,7 @@ References
 
 import gzip
 from string import ascii_lowercase as lowercase
+import itertools
 
 import networkx as nx
 
@@ -43,11 +44,16 @@ def generate_graph(words):
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
 
     def edit_distance_one(word):
-        for i in range(len(word)):
-            left, c, right = word[0:i], word[i], word[i + 1:]
-            j = lookup[c]  # lowercase.index(c)
-            for cc in lowercase[j + 1:]:
-                yield left + cc + right
+        perms = itertools.permutations(word);
+        for perm in perms:
+            perm_word = "";
+            for i in range(len(perm)):
+                perm_word += perm[i];
+            for i in range(len(perm)):
+                left, c, right = perm_word[0:i], perm_word[i], perm_word[i + 1:]
+                j = lookup[c]  # lowercase.index(c)
+                for cc in lowercase[j + 1:]:
+                    yield left + cc + right
     candgen = ((word, cand) for word in sorted(words)
                for cand in edit_distance_one(word) if cand in words)
     G.add_nodes_from(words)
